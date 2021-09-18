@@ -17,5 +17,17 @@
     - instanciation
     - inheritance
 - A simple data pipepline - we'll base this on where you're at.
-- Modoles, __init__.py files - what have you learned?
-- Unittests?
+- Modoles, __init__.py files
+- Unittests
+
+- make api
+- data conversion csv <-> json
+- data manipulation
+
+## Places to find APIs to get data online
+- https://github.com/public-apis/public-apis
+- https://rapidapi.com/collection/list-of-free-apis
+
+
+## Requests Library for Python
+- https://docs.python-requests.org/en/master/user/quickstart/
